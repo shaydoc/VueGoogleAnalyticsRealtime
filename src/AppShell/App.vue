@@ -59,8 +59,4 @@ export default {
 }
 </script>
 
-<style>
- @import url("https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-alpha.6/css/bootstrap.min.css");
- @import url("https://v4-alpha.getbootstrap.com/examples/dashboard/dashboard.css");
- @import url("https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css");
-</style>
+
